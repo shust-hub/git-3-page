@@ -6,7 +6,7 @@
 Россия, Санкт-Петербург | shustova_a@kadis.ru | 8900642547x
 ***
 
-## Skills
+## Навыки
 
 * **Языки программирования**: JavaScript, PHP, HTML, CSS
 * **Фреймворки**: Bootstrap
@@ -21,6 +21,6 @@
 
 ***
 
-## Languages
+## Языки
 
 * **English**
