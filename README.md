@@ -3,7 +3,9 @@
 ![Шустова Алёна Дмитриевна](https://upload.wikimedia.org/wikipedia/commons/d/d2/Crystal_Clear_kdm_user_female.svg)
 
 **Web-разработчик**
+
 Россия, Санкт-Петербург | shustova_a@kadis.ru | 8900642547x
+
 ***
 
 ## Навыки
